@@ -1,0 +1,3 @@
+- add a config file per dataset, e.g. in a reduction and diff folder to set the target and remake diff flux without re-making the reduction
+- make a plot with evolution of noises with commit sha date (started in plot_noises.py)
+- for latter, make a separate {version}_noises.yaml file

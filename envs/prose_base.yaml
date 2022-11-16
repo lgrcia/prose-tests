@@ -1,0 +1,12 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - numpy 
+  - ipython
+  - scipy 
+  - tensorflow 
+  - netcdf4 
+  - numba
+  - pip:
+    - prose @ git+https://github.com/lgrcia/prose.git@version
